@@ -2,7 +2,7 @@
 
 A full-stack web application to help users track, manage, and analyze daily expenses efficiently. Built using PHP, MySQL, and Bootstrap, this project provides a simple and user-friendly interface for managing personal finances.
 
-🚀 Features
+🚀 Features  <br>
 👤 User Registration & Login
 🔐 Secure Authentication System
 ➕ Add Daily Expenses
